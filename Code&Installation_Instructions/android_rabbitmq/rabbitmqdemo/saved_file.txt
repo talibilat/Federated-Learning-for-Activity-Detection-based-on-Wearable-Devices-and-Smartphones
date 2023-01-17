@@ -1,0 +1,1 @@
+this payload was published on MQTT and read using AMQP
